@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<bug>
+<title> New bug <title>
+	<discription> New bug was appeared</discription>
+	<exspected_result> The app opened </exspected_result>
+	<actual_result> The app not opened <actual_result>
+	<priority> High </priority> 
+</bug>
